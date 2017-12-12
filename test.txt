@@ -2,4 +2,5 @@ text for test
 test git commit
 test modified to staged
 test git diff
+test modified in work area
 test git diff --cached
