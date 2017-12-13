@@ -6,4 +6,6 @@ test modified in work area
 test git diff --cached
 test git commit --amend
 test git commit --amend -m'recode'
-test conflict in learning branch
+test conflict in master
+test modified in master branch
+test modified in learning branch
