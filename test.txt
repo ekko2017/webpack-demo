@@ -10,3 +10,4 @@ test conflict in master (modified in learning branch)
 test modified in master branch
 test modified in learning branch
 test merge conflict at learning branch
+test git merge --no-ff , add in learning branch
