@@ -15,3 +15,4 @@ ready for git merge at test2 branch
 ready for git merge at test2 branch again
 ready for git merge at test2 branch 3rd
 ready for git merge at test2 branch 4th
+ready for git merge at learning branch
