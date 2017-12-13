@@ -7,3 +7,4 @@ test git diff --cached
 test git commit --amend
 test git commit --amend -m'recode'
 test conflict in master
+test modified in master branch
