@@ -10,4 +10,8 @@ test conflict in master (modified in learning branch)
 test modified in master branch
 test modified in learning branch
 test merge conflict at learning branch
-test git merge --no-ff , add in learning branch
+ready for git merge --no-ff at test branch
+ready for git merge at test2 branch
+ready for git merge at test2 branch again
+ready for git merge at test2 branch 3rd
+ready for git merge at test2 branch 4th
