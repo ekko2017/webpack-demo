@@ -4,3 +4,5 @@ test modified to staged
 test git diff
 test modified in work area
 test git diff --cached
+test git commit --amend
+test git commit --amend -m'recode'
