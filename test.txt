@@ -9,3 +9,4 @@ test git commit --amend -m'recode'
 test conflict in master (modified in learning branch)
 test modified in master branch
 test modified in learning branch
+test merge conflict at learning branch
